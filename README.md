@@ -14,14 +14,14 @@ http://commons.apache.org/io/
 
 Use
 ===
--Compile both projects.
+- Compile.
 
--Run the TVForm class from the TV project.
+- Run the TVForm class.
 
--Load your desired shows into the schedule specifying the root directory that contains the shows video files. 
+- Load your desired shows into the schedule specifying the root directory that contains the shows video files. 
 
--Place your shows into the scheduling table.
+- Place your shows into the scheduling table.
 
--Serialize(save) the schedule.
+- Serialize(save) the schedule.
 
--Run the TVRun class with the serialized schedule as a parameter.
+- Run the TVRun class with the serialized schedule as a parameter.
