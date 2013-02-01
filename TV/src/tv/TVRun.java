@@ -1,4 +1,4 @@
-package tvrun;
+package tv;
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
@@ -6,7 +6,6 @@ package tvrun;
 
 import java.io.File;
 import java.io.IOException;
-import tv.*;
 
 public class TVRun {
 
